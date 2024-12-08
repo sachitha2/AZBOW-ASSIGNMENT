@@ -1,0 +1,37 @@
+id,product_name,category_ids,product_description,directions,price,in_stock
+P001,Aloe Facewash,"[8, 1, 6]",Removes dead skin and effective on dry skin types,"HOW TO USE:
+
+Wash face with clean water and apply product on face. Finally rinse with clean water",1200,500
+P002,Damson Lip Liner,"[1, 3, 4]","Defines and creates a neat lip outline resulting on full, bold lips.","HOW TO USE:
+
+Prime and line lips with lip liner.
+Fill in to wear alone, or apply lipstick to complete the look.
+For an even bolder look, fill in and apply Colour Lipstick on top",1400,150
+P003,Glow - Day Creame,"[1, 5, 6, 7]",Keeps your skin from being damaged while you go through your everyday tasks,"HOW TO USE:
+
+Cleanse area to apply and apply cream",3250,225
+P004,Hair Repair Conditioner,[10],Repair your damaged and dry hair with this amazing solution,Wash hair with clean water and apply product. Rinse with clean cold water,1499,320
+P005,Hair Repair Shampoo,[10],Repair your damaged and dry hair with this amazing solution,Wash hair with clean water and apply product. Rinse with clean cold water,1899,310
+P006,Jasmin Bodywash,"[6, 7]",Makes you feel like you are in a field of jasmin. Feeling fresh and amazing,Wash body with clean water and apply. Finally rinse with clean water,1450,340
+P007,Kohomba Facewash,"[8, 1, 6]",For pimple prone skin. Fights germs and cleans your face,"HOW TO USE:
+
+Wash face with clean water and apply product on face. Finally rinse with clean water",1550,500
+P008,Mint Bodywash,"[6, 7]",Feel mint freshness all through your body and take the day with mint filled energy,Wash body with clean water and apply. Finally rinse with clean water,1550,200
+P009,Radient - Night Creame,"[1, 5, 6, 7]",Rejuvinates your skin while you rest and sleep at night,"HOW TO USE:
+
+Cleanse area to apply and apply cream",3000,160
+P010,Red Glossy Lipstik,"[1, 2, 3]",Load your lips with long lasting and impeccable red colour to fulfill your makeup requirements.,"HOW TO USE:
+
+1. Exfoliate your lips.
+2. Line your lips with the CCUK Lip definer, then fill them in.
+3. Blot your lips for an extra-matte finish.
+*Please note that actual colours may vary slightly.","2,500.00",150
+P011,Tea Tree Facewash,"[8, 1, 6]",Cleans the dirt and oil from your face and gives a bright healthy look,"HOW TO USE:
+
+Cleanse area to apply and apply cream",1350,500
+P012,Tumeric Handwash,"[9, 6]",Effectifly removes dirt and germs from skin,Wash hands using one or two drops of the handwash whenever needed.,600,150
+P013,Wine Lip Liner,"[1, 3, 4]","Defines and creates a neat lip outline resulting on full, bold lips.","HOW TO USE:
+
+Prime and line lips with lip liner.
+Fill in to wear alone, or apply lipstick to complete the look.
+For an even bolder look, fill in and apply Colour Lipstick on top",1200,75
