@@ -37,7 +37,7 @@
 
 5. **Start the backend server:**
    ```bash
-   npm start
+   npm run dev
    ```
    - Backend API will run at: **`http://localhost:3000`**
 
@@ -83,8 +83,8 @@ project-root/
 │   ├── src/
 │   ├── package.json
 │-- docs/
-│   ├── ER_Diagram.pdf
-│   ├── Use_Cases.pdf
+│   ├── ER-Diagram.png
+│   ├── Use Cases.md
 │   ├── postman_collection.json
 │-- README.md
 ```
